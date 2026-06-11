@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hemanath  | Full Stack developer MERN 
 
 <div align="center">
