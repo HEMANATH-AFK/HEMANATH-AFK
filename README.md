@@ -8,7 +8,7 @@
   <a href="https://hemanath-afk.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-hemanath--afk.vercel.app-0EA5E9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/hemanath-afk/"><img src="https://img.shields.io/badge/LinkedIn-Hemanath_AFK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:hemanathkalai29@gmail.com"><img src="https://img.shields.io/badge/Email-hemanathkalai29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://drive.google.com/file/d/1OBsu5YqI-MtM9_mYjAG5v7hZ-swcxQGF/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download_CV-FF5722?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
+  <a href="https://drive.google.com/file/d/1O0q4IPO-6elsqLkK1mrL8ekgtWY1dJai/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download_CV-FF5722?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" /></a>
 </p>
 
 ---
