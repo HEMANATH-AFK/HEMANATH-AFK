@@ -112,7 +112,7 @@ npm install @hemanath-afk/afk-motion
         <li><strong>Automated Screening:</strong> Real-time interview evaluations powered by LLM agents.</li>
         <li><strong>Structured Output:</strong> Standardized score reporting for HR scaling.</li>
       </ul>
-      <a href="https://github.com/HEMANATH-AFK/hireafk"><strong>View Repository »</strong></a>
+      <a href="https://github.com/HEMANATH-AFK/hire-afk"><strong>View Repository »</strong></a>
     </td>
   </tr>
 </table>
